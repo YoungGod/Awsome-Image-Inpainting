@@ -32,4 +32,4 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 
 [9] Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, Thomas S. Huang, Free-Form Image Inpainting with Gated Convolution, arxiv, 2018. [[paper]](https://arxiv.org/abs/1806.03589) [[project]](http://jiahuiyu.com/deepfill2/)
 
-[10] [6] 	Haoran Zhang, Zhenzhen Hu, Changzhi Luo, Wangmeng Zuo, Meng Wang, Semantic Image Inpainting with Progressive Generative Networks, ACM MM, 2018. [[paper]](https://dl.acm.org/citation.cfm?id=3240625)[[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
+[10] Haoran Zhang, Zhenzhen Hu, Changzhi Luo, Wangmeng Zuo, Meng Wang, Semantic Image Inpainting with Progressive Generative Networks, ACM MM, 2018. [[paper]](https://dl.acm.org/citation.cfm?id=3240625)[[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
