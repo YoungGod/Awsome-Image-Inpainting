@@ -33,3 +33,5 @@ A list of resources for Image Inpainting, inspired by [Awesome-deep-vision](http
 [9] Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, Thomas S. Huang, Free-Form Image Inpainting with Gated Convolution, arxiv, 2018. [[paper]](https://arxiv.org/abs/1806.03589) [[project]](http://jiahuiyu.com/deepfill2/)
 
 [10] Haoran Zhang, Zhenzhen Hu, Changzhi Luo, Wangmeng Zuo, Meng Wang, Semantic Image Inpainting with Progressive Generative Networks, ACM MM, 2018. [[paper]](https://dl.acm.org/citation.cfm?id=3240625)[[code]](https://github.com/crashmoon/Progressive-Generative-Networks)
+
+[11] Jie Yang, Zhiquan Qi, Yong Shi, Learning to Incorporate Structure Knowledge for Image Inpainting, AAAI, 2020. [[paper]](https://www.researchgate.net/publication/338984531_Learning_to_Incorporate_Structure_Knowledge_for_Image_Inpainting)[[code]](https://github.com/YoungGod/sturcture-inpainting)
